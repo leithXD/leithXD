@@ -32,6 +32,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=leithXD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+[![Leith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leithXD&theme=tokyo-night)](https://github.com/leithXD/github-readme-activity-graph)
+
 
 ### 🔝 Top Contributed Repo
 <p align="center">
