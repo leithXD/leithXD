@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello i am Leith, i am 18 years old and go to school right now.<br>I live in Germany and i am trying to get better at programming, computers and Linux in general because computers are really fun to experiment and build with.<br>As of now i am learning:<br>- Go<br>- Qml<br>- Linux<br>I am not very good at any of them but i am aiming to get better everyday!
+# My name is Leith nice to meet you!
 
 
 ## 🌐 Socials:
